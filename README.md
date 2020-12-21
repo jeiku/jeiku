@@ -11,7 +11,7 @@
 </a>
 <!-- <br> -->
 <a href="https://github.com/jeiku/jeiku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiku&count_private=true&hide=html&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiku&count_private=true&hide=html&theme=dracula" />
 </a>
 </p>
 <!-- <end>
