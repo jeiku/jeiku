@@ -7,7 +7,7 @@
 <!-- https://github.com/jeiku/github-readme-stats -->
 <p align='left'>
 <a href="https://github.com/jeiku/jeiku">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeiku&show_icons=true&line_height=33&hide=stars,prs,contribs&count_private=true&theme=algolia" alt="Jake's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeiku&show_icons=true&line_height=33&hide=stars,prs,contribs&count_private=true&theme=dracula" alt="Jake's GitHub Stats" />
 </a>
 <!-- <br> -->
 <a href="https://github.com/jeiku/jeiku">
