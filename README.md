@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="200">
 <h1><strong>Welcome to my GitHub!</strong></h1>
 <p><em>My name is Jake</em></p>
-<p><em>I'm a web developer. You can see my portfolio <a href="https://www.khoury.northeastern.edu/">here</a>!
+<p><em>I'm a web developer. You can see my portfolio <a href="https://jeiku.github.io/">here</a>!
 </em></p>
 
 <!-- https://github.com/jeiku/github-readme-stats -->
