@@ -1,15 +1,9 @@
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="200">
-<h1><strong>Welcome to my GitHub!</strong></h1>
+<h1><strong>Howdy!</strong></h1>
 <p><em>My name is Jake</em></p>
-<p><em>I'm a web developer. You can see my portfolio <a href="https://jeiku.github.io/">here</a>!
+<p><em>I am a web developer with experience building responsive applications using React.js, Javascript, Redux, HTML, CSS. I enjoy solving problems and working on the backend with Python. With a problem-solving mindset and attention to detail, I thrive in both collaborative and self-driven environments. Constantly learning and seeking new challenges.
 </em></p>
 
-<!-- https://github.com/jeiku/github-readme-stats -->
-<p align='left'>
-<a href="https://github.com/jeiku/jeiku">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeiku&show_icons=true&line_height=33&hide=stars,prs,contribs&count_private=true&theme=dracula" alt="Jake's GitHub Stats" />
-</a>
-<!-- <br> -->
 <a href="https://github.com/jeiku/jeiku">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiku&count_private=true&hide=html&theme=dracula" />
 </a>
