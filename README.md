@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="200">
 <h1><strong>Howdy!</strong></h1>
-<p><em>My name is Jake</em></p>
+<p><em>My name is Jake.</em></p>
 <p><em>I am a web developer with experience building responsive applications using React.js, Javascript, Redux, HTML, CSS. I enjoy solving problems and working on the backend with Python. With a problem-solving mindset and attention to detail, I thrive in both collaborative and self-driven environments. Constantly learning and seeking new challenges.
 </em></p>
 
